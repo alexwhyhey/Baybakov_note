@@ -33,7 +33,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(114, 156);
+            button1.Location = new Point(465, 151);
             button1.Name = "button1";
             button1.Size = new Size(184, 64);
             button1.TabIndex = 0;
@@ -45,8 +45,8 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.Yellow;
-            ClientSize = new Size(437, 383);
+            BackColor = Color.FromArgb(255, 128, 0);
+            ClientSize = new Size(1088, 383);
             Controls.Add(button1);
             Name = "Form1";
             Text = "Блокнот";
